@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello my friend!"
+echo "Hello my friend! Rush B!"
